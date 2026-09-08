@@ -2,6 +2,11 @@
 
 A complete, hands-on roadmap from Python basics to AI/ML, organized into **10 phases** and **114 topics**. Every topic folder contains three files designed to be worked in order.
 
+This is the **canonical detailed curriculum** for Python, Python-based DSA,
+data science, and introductory AI/ML. Higher-level schedules may link here, but
+lesson explanations, runnable examples, and practice material should not be
+duplicated into the `Routine` or `maang-engineer-roadmap` repositories.
+
 ## How to use this repo
 
 For **each topic**, follow this 3-step learning loop:
