@@ -9,3 +9,5 @@ venv/
 .coverage
 htmlcov/
 .mypy_cache/
+# your personal exercise answers (one per topic, copied from my_solution_template.py)
+my_solution.py
